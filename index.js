@@ -18,7 +18,7 @@ document.addEventListener("keydown", function(event){
 });
 
 
-// here we are 
+// here we are looking for the key down event from the code above. 
 function makeSound(key){
     switch (key) {
         case "w":
